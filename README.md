@@ -1,6 +1,4 @@
-> UWEC 2024 - Bachelor of Science - Computer Science
-
-> IT @ Road America
+> I like combining CS with Motorsport
 <!--
 **ryderjsmith/ryderjsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
